@@ -18,7 +18,7 @@ const PrivacyPolicy = () => {
             <section className="mb-8 animate-fade-in-up animation-delay-300">
               <h2 className="text-2xl font-bold text-slate-800 mb-4">1. Information We Collect</h2>
               <p className="text-gray-700 mb-4">
-                MD Prime Logistics LLC collects information to provide better services to our customers. We collect information in the following ways:
+                JBM Cargo LLC collects information to provide better services to our customers. We collect information in the following ways:
               </p>
               <ul className="list-disc pl-6 space-y-2 text-gray-700">
                 <li><strong>Personal Information:</strong> Name, email address, phone number, and business information when you contact us or request services.</li>
@@ -81,11 +81,11 @@ const PrivacyPolicy = () => {
               </p>
               <div className="bg-gray-50 p-4 rounded-lg mt-4 hover:bg-gray-100 transition-colors duration-300">
                 <p className="text-gray-700">
-                  <strong>MD Prime Logistics LLC</strong><br />
-                  5960 Fairview Rd, Suite 400<br />
-                  Charlotte, NC 28210<br />
-                  Phone: (443) 625-1223<br />
-                  Email: dispatch@mdprimelogistics.com
+                  <strong>JBM Cargo LLC</strong><br />
+                  6150 Enterprice Pkwy<br />
+                  Solon Ohio 44139<br />
+                  Phone: +1(330)777-7680<br />
+                  Email: dustin@jmbcargo.com
                 </p>
               </div>
             </section>
