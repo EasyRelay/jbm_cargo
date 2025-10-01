@@ -20,6 +20,21 @@ const PrivacyPolicy: React.FC = () => {
                     <li>Communication records with our team</li>
                 </ul>
             </section>
+            
+            <section>
+                <h2 className="text-xl font-semibold text-gray-800">RingCentral Integration</h2>
+                <p className="text-gray-700 mb-3">
+                    Our service uses RingCentral's APIs to facilitate communication. When you connect your RingCentral account, we may access and use data such as:
+                </p>
+                <ul className="list-disc pl-6 text-gray-700 space-y-1">
+                    <li>Your RingCentral account information</li>
+                    <li>Call and message metadata (not message content)</li>
+                    <li>Contact and directory information</li>
+                </ul>
+                <p className="text-gray-700 mt-3">
+                    This data is not shared with third parties except as required to operate the service.
+                </p>
+            </section>
 
             <section>
                 <h2 className="text-xl font-semibold text-gray-800">How We Use Your Information</h2>
