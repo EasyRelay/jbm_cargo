@@ -28,24 +28,24 @@ const PrivacyPolicy = () => {
                 <li><strong>Communication Records:</strong> Records of communications between you and our company for service and support purposes.</li>
               </ul>
             </section>
-            
-            <section>
-                <h2 className="text-xl font-semibold text-gray-800">RingCentral Integration</h2>
-                <p className="text-gray-700 mb-3">
-                    Our service uses RingCentral's APIs to facilitate communication. When you connect your RingCentral account, we may access and use data such as:
-                </p>
-                <ul className="list-disc pl-6 text-gray-700 space-y-1">
-                    <li>Your RingCentral account information</li>
-                    <li>Call and message metadata (not message content)</li>
-                    <li>Contact and directory information</li>
-                </ul>
-                <p className="text-gray-700 mt-3">
-                    This data is not shared with third parties except as required to operate the service.
-                </p>
-            </section>
 
             <section className="mb-8 animate-fade-in-up animation-delay-400">
-              <h2 className="text-2xl font-bold text-slate-800 mb-4">2. How We Use Your Information</h2>
+              <h2 className="text-2xl font-bold text-slate-800 mb-4">2. RingCentral Integration</h2>
+              <p className="text-gray-700 mb-4">
+                Our service uses RingCentral's APIs to facilitate communication. When you connect your RingCentral account, we may access and use data such as:
+              </p>
+              <ul className="list-disc pl-6 space-y-2 text-gray-700">
+                <li>Your RingCentral account information</li>
+                <li>Call and message metadata (not message content)</li>
+                <li>Contact and directory information</li>
+              </ul>
+              <p className="text-gray-700 mt-4">
+                This data is not shared with third parties except as required to operate the service.
+              </p>
+            </section>
+
+            <section className="mb-8 animate-fade-in-up animation-delay-500">
+              <h2 className="text-2xl font-bold text-slate-800 mb-4">3. How We Use Your Information</h2>
               <p className="text-gray-700 mb-4">We use the information we collect to:</p>
               <ul className="list-disc pl-6 space-y-2 text-gray-700">
                 <li>Provide, maintain, and improve our logistics services</li>
@@ -57,8 +57,8 @@ const PrivacyPolicy = () => {
               </ul>
             </section>
 
-            <section className="mb-8 animate-fade-in-up animation-delay-500">
-              <h2 className="text-2xl font-bold text-slate-800 mb-4">3. Information Sharing</h2>
+            <section className="mb-8 animate-fade-in-up animation-delay-600">
+              <h2 className="text-2xl font-bold text-slate-800 mb-4">4. Information Sharing</h2>
               <p className="text-gray-700 mb-4">
                 We do not sell, trade, or otherwise transfer your personal information to third parties except in the following circumstances:
               </p>
@@ -70,8 +70,8 @@ const PrivacyPolicy = () => {
               </ul>
             </section>
 
-            <section className="mb-8 animate-fade-in-up animation-delay-600">
-              <h2 className="text-2xl font-bold text-slate-800 mb-4">4. Data Security</h2>
+            <section className="mb-8 animate-fade-in-up animation-delay-700">
+              <h2 className="text-2xl font-bold text-slate-800 mb-4">5. Data Security</h2>
               <p className="text-gray-700">
                 We implement appropriate security measures to protect your personal information against unauthorized access, 
                 alteration, disclosure, or destruction. However, no method of transmission over the internet or electronic 
@@ -79,8 +79,8 @@ const PrivacyPolicy = () => {
               </p>
             </section>
 
-            <section className="mb-8 animate-fade-in-up animation-delay-700">
-              <h2 className="text-2xl font-bold text-slate-800 mb-4">5. Your Rights</h2>
+            <section className="mb-8 animate-fade-in-up animation-delay-800">
+              <h2 className="text-2xl font-bold text-slate-800 mb-4">6. Your Rights</h2>
               <p className="text-gray-700 mb-4">You have the right to:</p>
               <ul className="list-disc pl-6 space-y-2 text-gray-700">
                 <li>Access and review your personal information</li>
@@ -90,8 +90,8 @@ const PrivacyPolicy = () => {
               </ul>
             </section>
 
-            <section className="mb-8 animate-fade-in-up animation-delay-800">
-              <h2 className="text-2xl font-bold text-slate-800 mb-4">6. Contact Us</h2>
+            <section className="mb-8 animate-fade-in-up animation-delay-900">
+              <h2 className="text-2xl font-bold text-slate-800 mb-4">7. Contact Us</h2>
               <p className="text-gray-700">
                 If you have questions about this Privacy Policy, please contact us at:
               </p>
